@@ -2,7 +2,7 @@
 Projek Kelompok UAS Universitas Siliwangi, Mata Kuliah Kalkulus II
 
 ## Deskripsi Proyek
-Proyek ini adalah sebuah kalkulator vektor yang dikembangkan sebagai bagian dari Ujian Akhir Semester (UAS) untuk mata kuliah Kalkulus II di semester 2. Kalkulator ini dirancang untuk membantu dalam perhitungan vektor yang sering digunakan dalam materi Kalkulus II.
+Proyek ini adalah sebuah kalkulator vektor yang dikembangkan sebagai bagian dari Ujian Akhir Semester (UAS) untuk mata kuliah Kalkulus II di semester 2 oleh Ibu Euis Nur Fitriani Dewi S.T., M.KOM.. Kalkulator ini dirancang untuk membantu dalam perhitungan vektor yang sering digunakan dalam materi Kalkulus II.
 
 ## Anggota Kelompok
 - Husni Ayi Nurdin (NPM: 237006002)
@@ -10,9 +10,6 @@ Proyek ini adalah sebuah kalkulator vektor yang dikembangkan sebagai bagian dari
 - Alifa Gustia Rahmi (NPM: 237006014)
 - Samuel Parlindungan Siringoringo (NPM: 237006017)
 - Febnawan Fatur Rochman (NPM: 237006029)
-  
-## Dosen Pembimbing
-Ibu Euis Nur Fitriani Dewi S.T., M.KOM.
 
 ## Fitur
 Perhitungan vektor dasar (penjumlahan, pengurangan, dot product, cross product)
