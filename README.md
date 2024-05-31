@@ -11,7 +11,7 @@ Proyek ini adalah sebuah kalkulator vektor yang dikembangkan sebagai bagian dari
 - Samuel Parlindungan Siringoringo (NPM: 237006017)
 - Febnawan Fatur Rochman (NPM: 237006029)
   
-##Dosen Pembimbing
+## Dosen Pembimbing
 Ibu Euis Nur Fitriani Dewi S.T., M.KOM.
 
 ## Fitur
