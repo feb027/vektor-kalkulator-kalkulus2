@@ -12,8 +12,8 @@ Proyek ini adalah sebuah kalkulator vektor yang dikembangkan sebagai bagian dari
 - Febnawan Fatur Rochman (NPM: 237006029)
 
 ## Fitur
-Perhitungan vektor dasar (penjumlahan, pengurangan, dot product, cross product)
-Antarmuka pengguna yang sederhana dan mudah digunakan
+- Perhitungan vektor dasar (penjumlahan, pengurangan, dot product, cross product)
+- Antarmuka pengguna yang sederhana dan mudah digunakan
 
-##Kontribusi
+## Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repository ini dan buat pull request dengan perubahan yang Anda usulkan.
